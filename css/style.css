@@ -408,6 +408,7 @@ footer ul li a {
     margin: 10px 0;
   }
   button {
+    display: none;
     width: 100px;
     padding: 8px 0;
     border: 1px solid var(--success-color);
